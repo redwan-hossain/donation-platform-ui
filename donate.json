@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "🍚",
+    "title": "Food for a family",
+    "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "icon": "🏠",
+    "title": "Comfortable Home",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "icon": "🚗",
+    "title": "Travel & Transport",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  }
+]
